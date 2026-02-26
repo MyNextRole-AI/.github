@@ -1,15 +1,52 @@
 # MyNextRole.ai
 
-MyNextRole.ai is an AI-powered career strategy platform designed for experienced professionals navigating career transitions, leadership growth, and career repositioning.
+AI-powered career strategy platform helping experienced professionals identify high-leverage career moves without starting over.
 
-## What We Build
-We develop intelligent systems that analyze professional experience, identify transferable strengths, and help professionals understand their highest-leverage next career move.
+---
 
-## Mission
-Help professionals move forward without starting over.
+## 🚀 What We Build
 
-## Website
+MyNextRole.ai analyzes professional experience, transferable skills, and market positioning to help professionals:
+
+- Map career pivots
+- Identify high-leverage opportunities
+- Translate experience across industries
+- Execute strategic career transitions
+
+We focus on **career positioning**, not job applications.
+
+---
+
+## 🌐 Website
 https://mynextrole.ai
 
-## About
-MyNextRole combines AI analysis with strategic career positioning to help experienced professionals gain clarity, direction, and momentum in their careers.
+## 🧠 Product
+AI career analysis, positioning intelligence, and transition strategy tools for modern professionals.
+
+---
+
+## 🔗 Company Profiles
+
+- Website: https://mynextrole.ai  
+- Wellfound: https://wellfound.com/company/mynextrole-ai  
+- LinkedIn: https://www.linkedin.com/company/my-next-role-ai  
+- X (Twitter): https://x.com/mynextroleai
+
+---
+
+## 🎯 Mission
+
+Help professionals move forward without starting over.
+
+---
+
+## 👤 Founder
+
+Joe Luminiello  
+Founder — MyNextRole.ai
+
+---
+
+## ⚡ Status
+
+Building publicly • Early access platform
